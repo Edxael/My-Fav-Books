@@ -1,7 +1,7 @@
 {
   "name": "My Books",
   "description": "List of Books",
-  "repository": "https://github.com/Edxael/Study-Notes/tree/master/02-Notes/03-Node/01-Books-1",
+  "repository": "https://github.com/Edxael/My-Fav-Books",
   "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"
